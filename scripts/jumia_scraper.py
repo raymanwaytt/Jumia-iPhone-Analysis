@@ -2,7 +2,7 @@ from datetime import datetime
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
-import os
+import osZZZZZS
 
 # Ensure the data folder exists
 os.makedirs("data", exist_ok=True)

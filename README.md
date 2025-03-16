@@ -71,21 +71,20 @@ View the full visualization here (open with Power BI):
 
 ##  Repository Structure
 
-Jumia-iPhone-Analysis/
-│-- data/
-│   ├── cleaned_jumia.csv
-│
-│-- scripts/      
-│   ├── jumia_scraper.py     # Web scraping script (BeautifulSoup & requests)
-│   ├── data_cleaning.ipynb  # Data cleaning (Pandas & REGEX)
-│
-│-- visualization/
-│   ├── dashboard.pbix       # Power BI report file
-│   ├── dashboard.png        # Dashboard preview
-│
-│-- README.md                # Project documentation
-│-- requirements.txt          # Python dependencies
-
+Jumia-iPhone-Analysis/  
+│-- 📂 data/  
+│   ├── cleaned_jumia.csv  
+│  
+│-- 📂 scripts/  
+│   ├── jumia_scraper.py       # Web scraping script (BeautifulSoup & requests)  
+│   ├── data_cleaning.ipynb    # Data cleaning (Pandas & REGEX)  
+│  
+│-- 📂 visualization/  
+│   ├── dashboard.pbix         # Power BI report file  
+│   ├── dashboard.png          # Dashboard preview  
+│  
+│-- README.md                  # Project documentation  
+│-- requirements.txt            # Python dependencies  
 
 ---
 
